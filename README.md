@@ -24,7 +24,7 @@ We welcome ideas, feature requests in the [discussion](https://github.com/withan
 
 ### Concept, Dev-Lead
 
-- [https://github.com/withanage](mailto:dulip.withanage@gmail.com)  @ [TIB](https://tib.eu)
+- [https://github.com/withanage](mailto:dulip.withanage@gmail.com)  
 ### Contributions
 - [Martin Brändle](https://github.com/mpbraendle) @ [Universitätsbibliothek Zürich](https://www.ub.uzh.ch/)
 - [Sebastian Schmidt](https://github.com/basti95) @ [Sächsische Landesbibliothek -Staats- und Universitätsbibliothek Dresden](https://www.slub-dresden.de/)  
